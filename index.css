@@ -1,0 +1,79 @@
+body{
+
+}
+.main-div{
+    width: 500px;
+   margin:40px auto;
+   box-shadow: 1px 1px 10px black;
+   padding: 20px;
+   border-radius: 5px;
+   cursor: pointer;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.span1{
+    color: blue;
+}
+
+.discriptionButton {
+ padding:10px 20px;
+  border-radius: 15px; 
+  color: red;
+  
+  
+}
+
+.border-style p{
+   font-size: 25px;
+}
+
+.span2{
+    color: red;
+    font-size: 30px;
+}
+
+.border-style label{
+   font-size: 25px; 
+}
+.border-style{
+    text-align: center;
+    font-family:  Helvetica, sans-serif;
+    
+}
+
+input{
+    width: 350px;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    background-color: #00000098;
+    color: white;
+    font-weight: bold;
+    margin-top:10px;
+    font-size: 20px;
+    
+}
+
+.controlaButtons{
+    padding:15px 60px;
+    margin-top:20px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+}
+
+#yes-button{
+   background-color: red; 
+   border: none;
+   padding:5px 10px;
+}
+#no-button{
+   background-color: red; 
+   border: none;
+      padding:5px 10px;
+}
+
